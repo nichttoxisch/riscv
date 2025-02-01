@@ -1,0 +1,6 @@
+build
+.vscode
+out
+.ninja_log
+build.ninja
+rv32i
