@@ -3,7 +3,7 @@
 
 Currently only fully supports rv32i extension. But is designed to support all comnbinations of extensions.
 
-##Builing 
+## Build 
 Build the rv32i emulator using the command:
 `sudo apt install ninja-build`
 `cc script/build.c -o build && ./build`
